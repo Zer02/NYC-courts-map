@@ -16,6 +16,14 @@ function App() {
     {
       geocode: [40.891026512286004, -73.89231669434554],
       popUp: "Van Cortlandt Park Tennis Courts"
+    },
+    {
+      geocode: [40.868560333218326, -73.79309471871032],
+      popUp: "Pelham Bay Park"
+    },
+    {
+      geocode: [40.81359577099436, -73.93836651114498],
+      popUp: "Howard Bennett Playground"
     }
   ]
 
