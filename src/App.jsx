@@ -24,6 +24,10 @@ function App() {
     {
       geocode: [40.81359577099436, -73.93836651114498],
       popUp: "Howard Bennett Playground"
+    },
+    {
+      geocode: [40.92643351009636, -73.87933630724534],
+      popUp: "Tibbetts Park Pickleball Courts"
     }
   ]
 
